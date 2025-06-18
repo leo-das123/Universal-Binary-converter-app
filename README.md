@@ -13,7 +13,7 @@
 - 📎 **Binary ↔ Text & Decimal**
 - 🎨 **Dark theme + Light theme toggle**
 - ⚙️ **Responsive layout**
-- 🌈 **Modern UI with animations, hover effects, and fade-ins**
+- **Modern UI with animations, hover effects, and fade-ins**
 
 ---
 
@@ -32,14 +32,6 @@ Installation
 git clone https://github.com/your-username/binary-universe-converter.git
 cd binary-universe-converter
 python main.py
-
-📁 Project Structure
-
-Binary-Universe-Converter/
-│
-├── main.py              # Main GUI application
-├── assets/              # (optional) images or logos
-├── README.md            # This file
 
 💡 Future Improvements
 
