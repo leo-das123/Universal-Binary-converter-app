@@ -25,15 +25,8 @@
 - Python 3.x
 - Pillow (`pip install pillow`)
 
-### Installation
 
-```bash
-git clone https://github.com/your-username/binary-universe-converter.git
-cd binary-universe-converter
-python main.py
-
-
-💡 Future Improvements
+###💡 Future Improvements
 
     Export binary output to .txt
 
@@ -43,7 +36,7 @@ python main.py
 
     Mobile/tablet responsive version (Kivy or Web)
 
-🧑‍💻 Author
+###🧑‍💻 Author
 
 Govind Bamble
 🚀 Student, Developer, Visionary
