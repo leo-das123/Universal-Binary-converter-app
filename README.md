@@ -66,12 +66,3 @@ Free for learning, teaching, and enhancing.
 
 ---
 
-✅ Ready to paste into your repo as `README.md`.
-
-Would you like me to:
-- Auto-generate a **project banner or logo**?
-- Add **badges** like `Made with Python`, `MIT License`, etc.?
-- Generate a **preview GIF** or help you record one?
-
-Let me know your next step.
-
