@@ -17,11 +17,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> _Coming soon! Add screenshots or a demo GIF here._
-
----
 
 ## 🛠️ Getting Started
 
@@ -36,3 +31,25 @@
 git clone https://github.com/your-username/binary-universe-converter.git
 cd binary-universe-converter
 python main.py
+
+
+💡 Future Improvements
+
+    Export binary output to .txt
+
+    Copy results to clipboard
+
+    Full-image binary encoding with scroll buffer
+
+    Mobile/tablet responsive version (Kivy or Web)
+
+🧑‍💻 Author
+
+Govind Bamble
+🚀 Student, Developer, Visionary
+📬 Connect: LinkedIn | GitHub
+⚖️ License
+
+MIT License. Free for learning, teaching, and enhancing.
+
+    “Everything in the universe is either 0 or 1 – and this app proves it.”
